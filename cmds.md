@@ -137,7 +137,13 @@ unstage files
 branching
 ----------
 //helpful in parallel development without messing with prime timeline.
+1. git checkout -b [branch_name]  
+    :: create and switch to new branch
+    :: branch out from current branch 
+>> git checkout -b betadev
 
+2. git checkout master
+    :: switch to master branch
 
 # Theory Part
 
