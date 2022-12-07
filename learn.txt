@@ -1,0 +1,7 @@
+learn   
+    - azure
+
+create
+    - custom file type for notes taking
+    - message app
+    - skill box recorder
