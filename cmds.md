@@ -21,6 +21,11 @@ Special Tasks
 2. Delete git repo itself
 >> rm -rf .git [highly_dangerous]
 
+3. setting custom alias for git commands
+git config --global alias.[custom] "commands"
+>> git config --global alias.unstaged 'restore --staged --'
+>> git unstaged <file>      :: git restore --staged --[file.txt]
+
 
 commonly used
 -----------------
@@ -69,6 +74,10 @@ Cloning a REMOTE Repo
 [Pull] - fetch all
 [Push] - send modifications
 
+4. git push -u origin master        
+    :: origin |alias for source link |
+    :: master |branch name|
+    :: pushes to master brain and not [main] branch
 
 ignore files from status{stag}
 ------------------------------
@@ -117,7 +126,7 @@ view your commits
 
 unstage files
 ---------------
->> git restore --staged <file>
+>> git restore --staged  <file>
     :: unstage --> not commit in next command
 >> git checkout -- <file>       
     :: fetch previous [commit] data to file
@@ -127,7 +136,6 @@ unstage files
 
 branching
 ----------
-
 
 
 
