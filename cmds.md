@@ -136,7 +136,7 @@ unstage files
 
 branching
 ----------
-
+//helpful in parallel development without messing with prime timeline.
 
 
 # Theory Part
