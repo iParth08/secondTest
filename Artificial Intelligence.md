@@ -9,11 +9,11 @@ Nevertheless, that's not just what AI is and it's certainly not a recent achieve
 The very first machine later became the base model for the study of AI is "Alan Turing Machine". The British computer pioneer Alan Mathison Turing, in 1935, theorized a computer model which will follow a set of instructions and scan what's written in its memory, symbol by symbol, thereafter writing more symbols on its own. Turing's conception now known as the universal Turing machine was put into test during World War II.   
 In 1945, British Government was in dire need of someone that could break the secret communication code of opponents. Alan Turing being a leading cryptanalyst was assigned the job but deciphering unknown combinations of symbols required thousands and ten thousands of permutation-combinations. This tedious task was certainly beyond human patience, also any error could cost the ongoing war. Turing was then reminded of his own theoretical model that could learn from past experiences as well as solve new problems having given certain heuristic guidelines. They witnessed the birth of the first AI machine amidst the war -  a code-deciphering weapon. This incident revolutionalized the research on Artificial Intelligence.
 
->> In 1945 Turing predicted that computers would one day play very good chess,   
->> and just over 50 years later, in 1997, Deep Blue, a chess computer built by the International Business Machines Corporation (IBM),
->> beat the reigning world champion, Garry Kasparov, in a six-game match.  
->>
->>  - Artificial Intelligence, Britanica.com
+    > In 1945 Turing predicted that computers would one day play very good chess,   
+    > and just over 50 years later, in 1997, Deep Blue, a chess computer built by the International Business Machines Corporation (IBM),
+    > beat the reigning world champion, Garry Kasparov, in a six-game match.  
+    >
+    >  - Artificial Intelligence, Britanica.com
 
 In 1956, Marvin Minsky and John McCarthy organized a meeting with some leading scientists of their time to discuss the training and usage of intelligence given to any machine. The term "Artificial Intelligence" was given to the field by John McCarthy. this conference, *the Dartmouth Workshop of 1956*,  was the moment that gave AI its name and its mission.
 
